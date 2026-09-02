@@ -6,7 +6,11 @@
 
 # Application identity
 APP_NAME = "CareSync"
+<<<<<<< HEAD
 APP_VERSION = "1.1.0"
+=======
+APP_VERSION = "1.0.1"
+>>>>>>> origin/main
 APP_DESCRIPTION = "Patient portal for hospital and clinic management"
 
 
